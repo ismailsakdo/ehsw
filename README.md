@@ -10,5 +10,7 @@ This article explores the vast potential of microcontrollers in addressing the m
 
 Join us as we embark on a journey through the intersection of microcontroller technology and environmental health, discovering how these devices are paving the way for smarter, greener, and more sustainable approaches to solid waste management.
 
-## Chapter 1
-
+## Chapter 1: Setting Your Arduino
+## Chapter 2: Arduino IDE
+## Chapter 3: Arduino Data-logger
+## Chapter 4: Data-Logger Analysis Data
